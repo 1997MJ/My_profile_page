@@ -1,0 +1,22 @@
+td{
+    padding: 5px;
+    text-transform: uppercase;
+}
+
+td p{
+    font-weight: 900;
+}
+
+.profileimg{
+    width: 100%;
+    padding: 50px;
+    height: 600px;
+}
+
+#profile-title{
+    font-weight: 700;
+}
+
+li{
+    margin-bottom: 10px;
+}

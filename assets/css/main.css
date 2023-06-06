@@ -1,0 +1,26 @@
+.portfolio-wrap img{
+    height: 400px;
+} 
+
+.portfolio-title{
+    list-style-type: none;
+
+}
+
+.portfolio-title h4{
+
+    font-weight: 700;
+    font-size: 20px;
+    margin-bottom: 20px;
+    color: #173b6c;
+  
+}
+
+#mbti{
+   
+    width: 70px;
+    height: 70px;
+    margin-top: 10px;
+  
+
+}
